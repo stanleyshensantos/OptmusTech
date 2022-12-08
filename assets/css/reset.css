@@ -1,13 +1,14 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
+:root{
+  --cinza:#667085;
+  --vinho:#8E2424;
+}
+*{
   padding: 0;
+  margin:0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
 }
-
-
-
-ul {
-  list-style: none;
+body{
+  width: 100%;
+  height: 100vh;
 }
-
-
