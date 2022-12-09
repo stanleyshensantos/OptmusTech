@@ -1,18 +1,24 @@
 .banner{
-    color: #000000;
-    text-align: center;
-    padding: 2.5em 2em;
-}
-
-.banner__titulo{
-    font-size: 48px;
-    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
 }
 .banner__texto--sub{
     font-weight: 500;
+    color: var(--vinho);
     margin: 2em 0;
 }
+.banner__titulo{
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--preto);
+}
+
 .banner__texto{
+    padding: 1em 0;
     font-weight: 500;
-    margin: 2em 0;
+    color: var(--cinza);
+    max-width: 51%;
+    text-align: center;  
+    
 }
