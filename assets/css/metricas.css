@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    max-width: 100%; 
 }
 .metrica__cartao{
    display: flex;
@@ -24,5 +23,5 @@
 }
 .conteudo__metrica--texto{
     color: var(--cinza);
-    align-items: center;
+      
 }

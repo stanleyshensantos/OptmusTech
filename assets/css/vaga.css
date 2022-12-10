@@ -1,0 +1,28 @@
+.vaga{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 2vw 30vw;
+  
+}
+.titulo__vaga{
+     font-weight: 500;
+     font-size: 20px;
+     line-height: 30px;
+     padding: 2em 0;
+     color: var(--preto);
+}
+.titulo-vaga{
+    font-weight: 500;
+     font-size: 18px;
+     line-height: 28px;
+     padding: 1em 1.5em;
+     color: var(--preto);
+}
+.informacoes{
+    font-weight: 500;
+     font-size: 16px;
+     line-height: 24px;
+     color: var(--cinza);
+     padding: 1em 1.5em;
+}
