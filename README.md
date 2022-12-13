@@ -4,7 +4,7 @@ Objetivo do projeto desenvolver minhas habilidades
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | **OptmusTech**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
@@ -14,4 +14,5 @@ Objetivo do projeto desenvolver minhas habilidades
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
+![image](https://user-images.githubusercontent.com/44849657/207470602-1f635a4a-11b5-4cd5-bc43-3b458d89a8be.png)
