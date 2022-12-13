@@ -39,4 +39,5 @@
    }
    .btnPadrao:hover{
     background-color: var(--vinho);
+    color: #FFFFFF;
    }

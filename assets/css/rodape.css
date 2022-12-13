@@ -1,0 +1,19 @@
+.input{
+    
+    padding: 1rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    color: var(--cinza);
+    font-size: 1rem;
+    width: 360px;
+    height: 48px;
+    margin: 1em 1em;
+    border: 1px solid #D0D5DD
+}
+
+.copyright{
+    color: var(--cinza);
+    padding: 2em 1em;
+    
+
+}
