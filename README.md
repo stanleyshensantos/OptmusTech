@@ -13,6 +13,6 @@ Objetivo do projeto desenvolver minhas habilidades
 ![image](https://user-images.githubusercontent.com/44849657/207470602-1f635a4a-11b5-4cd5-bc43-3b458d89a8be.png#vitrinedev)
 
 ## Detalhes do projeto
-
+Projeto elaborado no desafio #7DaysOfCode da #alura
 
 
